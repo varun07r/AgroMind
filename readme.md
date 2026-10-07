@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 The Problem
+## 1.🎯 The Problem
 
 Farmers often make irrigation and crop-selection decisions based on experience and limited information.
 
@@ -20,7 +20,7 @@ AgroMind aims to bridge this gap by turning real-time environmental data into **
 
 ---
 
-## 💡 Our Solution
+## 2️.💡 Our Solution
 
 **AgroMind** combines low-cost IoT sensors with an open-source machine learning model.
 
@@ -47,7 +47,7 @@ The model uses patterns learned from agricultural data to recommend crops suitab
 
 ---
 
-## 👨‍🌾 Target Users
+## 3.👨‍🌾 Target Users
 
 **Primary:** Small and medium-scale farmers.
 
@@ -57,7 +57,7 @@ The system is designed to provide **simple recommendations instead of complicate
 
 ---
 
-## 🤖 Open-Source AI Technology
+## 4.🤖 Open-Source AI Technology
 
 For the prototype, we propose a **Random Forest machine-learning model using the open-source Scikit-learn ecosystem**.
 
@@ -73,7 +73,7 @@ An appropriate **open agricultural dataset** will be selected during implementat
 
 ---
 
-## 🧠 Role of AI
+## 5.🧠 Role of AI
 
 AI acts as the **decision-making layer** of AgroMind.
 
@@ -95,7 +95,7 @@ Instead of returning only raw sensor values, the system converts them into **act
 
 ---
 
-## 🏗️ System Architecture
+## 6.🏗️ System Architecture
 
 ```text
 🌱 FARM ENVIRONMENT
@@ -123,7 +123,7 @@ Instead of returning only raw sensor values, the system converts them into **act
 
 ---
 
-## 🔄 Data Flow
+## 7.🔄 Data Flow
 
 **Sense → Transmit → Process → Analyze → Recommend**
 
@@ -136,7 +136,7 @@ Instead of returning only raw sensor values, the system converts them into **act
 
 ---
 
-## 🛠️ Technology Stack
+## 8.🛠️ Technology Stack
 
 | Component | Technology |
 |---|---|
