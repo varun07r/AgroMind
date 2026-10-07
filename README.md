@@ -4,7 +4,7 @@
 
 > **An IoT + AI system that transforms real-time farm conditions into actionable agricultural decisions.**
 
-**AgroMind** combines affordable IoT sensors with open-source AI to help farmers answer three practical questions:
+**AgroMind** combines IoT sensors with open-source AI to help farmers answer three practical questions:
 
 ### 💧 **Does the crop need water?**
 ### 🌾 **Which crop is suitable?**
